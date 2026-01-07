@@ -1,0 +1,7 @@
+*.o
+*.a
+*.exe
+main
+run_tests
+db.dat
+.vscode/settings.json
