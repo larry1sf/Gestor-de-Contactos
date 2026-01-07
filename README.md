@@ -26,7 +26,7 @@ cd "Gestor de Contactos"
 ```
 
 Opciones del `build.sh`
-- `./build.sh test` — compila y ejecuta tests si existen.
+- `./build.sh test` — compila y ejecuta tests.
 - `./build.sh clean` — limpia artefactos de compilación (`.o`, `libcontactos.a`, binarios).
 
 Notas
